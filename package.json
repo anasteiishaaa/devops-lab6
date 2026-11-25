@@ -1,0 +1,8 @@
+{
+  "name": "devops-lab6",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "build": "mkdir -p dist && echo build ok > dist/result.txt"
+  }
+}
